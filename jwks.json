@@ -1,0 +1,11 @@
+{
+    "kid": "b0475cfa-f8e3-4e1d-9f10-e6982679f913",
+    "typ": "JWT",
+    "alg": "RS256",
+    "jwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "kid": "b0475cfa-f8e3-4e1d-9f10-e6982679f913",
+        "n": "tAwmIujg-hksbctph7NNwzONall3V6qPzR2gnlCS9Ncs1x2Q6cG0E-I9CxVscAtgK3Ufo5BMvwlWbqtMS-T7dlhy330guUrNUtGkrA87S21ywhs6VY4WNysfkqpP47Lc_H9DZwuOd3HAuZASMJBraMF07yUYnuk5-Kl33AdonmEIMp2CdKzy17kKfFT9eO1zhEfNtyJumQkrCkaK0kxolNxeOEq-2tLEpJwN3eSy8ZEDLFXZD0ihAw_GtMkhZ0wt86KKr-SYKDQBREiVnL9_A39tnXiVHREAMULqcBbJIFy14yZ1ZS-9_LVGTYwDvhedmS4Kq0y3-X9G7p2xfmnn8Q"
+    }
+}
